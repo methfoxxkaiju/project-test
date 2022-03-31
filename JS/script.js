@@ -1,3 +1,3 @@
 "use strict";
-const category = "toys";
-alert(`Hello, ${category}`);
+let numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
+alert(numberOfFilms);
